@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VWkD+ydxYKLgLc+KR0A4fibCL2Ukp6quEmO6gm/Yavs=",
+  "Source": "NinjaServer",
+  "BasePath": "_content/NinjaServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

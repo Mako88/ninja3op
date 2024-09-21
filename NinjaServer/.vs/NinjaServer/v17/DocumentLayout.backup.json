@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\ninja\\NinjaServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\auth\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:auth\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\auth\\ijwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:auth\\ijwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\endpoints\\auth\\refreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:endpoints\\auth\\refreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\endpoints\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:endpoints\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\environmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:environmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|e:\\repos\\ninja\\ninjaserver\\auth\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7F8C7-94F6-40FF-B3D1-1E026EE28313}|NinjaServer.csproj|solutionrelative:auth\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshTokens.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Endpoints\\Auth\\RefreshTokens.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Auth\\RefreshTokens.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Endpoints\\Auth\\RefreshTokens.cs",
+              "RelativeToolTip": "Endpoints\\Auth\\RefreshTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:06:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IJwtTokenHandler.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Auth\\IJwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "Auth\\IJwtTokenHandler.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Auth\\IJwtTokenHandler.cs",
+              "RelativeToolTip": "Auth\\IJwtTokenHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:34:21.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Auth\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "Auth\\JwtTokenHandler.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Auth\\JwtTokenHandler.cs",
+              "RelativeToolTip": "Auth\\JwtTokenHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:10:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Endpoints\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Auth\\Login.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Endpoints\\Auth\\Login.cs",
+              "RelativeToolTip": "Endpoints\\Auth\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:05:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:37:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvironmentConfig.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\EnvironmentConfig.cs",
+              "RelativeDocumentMoniker": "EnvironmentConfig.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\EnvironmentConfig.cs",
+              "RelativeToolTip": "EnvironmentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:19:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenConfiguration.cs",
+              "DocumentMoniker": "E:\\repos\\ninja\\NinjaServer\\Auth\\TokenConfiguration.cs",
+              "RelativeDocumentMoniker": "Auth\\TokenConfiguration.cs",
+              "ToolTip": "E:\\repos\\ninja\\NinjaServer\\Auth\\TokenConfiguration.cs",
+              "RelativeToolTip": "Auth\\TokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:07:10.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"prettier.bracketSameLine": true,
+	"svelte.plugin.svelte.format.config.svelteBracketNewLine": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"svelte.plugin.svelte.format.enable": false,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"html.customData": ["./node_modules/@shoelace-style/shoelace/dist/vscode.html-custom-data.json"],
+	"[svelte]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.useEditorConfig": false,
+	"svelte.plugin.svelte.format.config.printWidth": 120,
+	"prettier.printWidth": 120,
+	"workbench.editor.labelFormat": "short"
+}
